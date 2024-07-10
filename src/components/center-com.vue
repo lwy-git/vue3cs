@@ -4,6 +4,7 @@
 <template>
     <div>
         <h2>中层组件</h2>
+        <h1>xxx</h1>
         <div>
             qqqqqqqqqq
         </div>
